@@ -1,0 +1,36 @@
+header {
+    box-shadow: 0px 1px 1px #e2e2e2;
+}
+
+header img{
+    margin: 10px;
+}
+
+#navSide {
+    background-color: #424957;
+    width: 250px;
+    height: 1905px;
+    color: white;
+    float: left;
+}
+
+.userInfo {
+    padding: 20px;
+}
+
+.userName {
+    font-size: large;
+}
+
+.hi {
+    color: #4caece;
+}
+
+.userEmail {
+    margin: 15px 0 25px 0;
+}
+
+#navSide ul{
+    padding: 5px;
+    height: 100%;
+}
